@@ -1,0 +1,13 @@
+{
+  "name": "dotenv-with-expand",
+  "version": "1.0.0",
+  "description": "Drop in replacement for `dotenv` with `dotenv-expand` preloaded",
+  "main": "index.js",
+  "repository": "https://github.com/khuongduybui/dotenv-with-expand",
+  "author": "Duy K. Bui <duy@buifamily.info>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "latest",
+    "dotenv-expand": "latest"
+  }
+}
