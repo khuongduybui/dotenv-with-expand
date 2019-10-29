@@ -1,5 +1,10 @@
 # dotenv-with-expand
 
+![npm](https://img.shields.io/npm/v/dotenv-with-expand)
+![npm downloads](https://img.shields.io/npm/dt/dotenv-with-expand)
+![npm license](https://img.shields.io/npm/l/dotenv-with-expand)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/khuongduybui/dotenv-with-expand.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/khuongduybui/dotenv-with-expand/context:javascript)
+
 This is a drop-in replacement for [dotenv](https://www.npmjs.com/package/dotenv) but with preloaded [dotenv-expand](https://www.npmjs.com/package/dotenv-expand) functionality.
 
 ## Install
