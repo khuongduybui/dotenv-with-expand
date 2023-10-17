@@ -1,3 +1,9 @@
+DEPRECATION NOTICE
+
+Support for `.env` file is now a builtin feature of Node.js.
+See https://nodejs.org/en/blog/release/v20.6.0#built-in-env-file-support
+
+
 # dotenv-with-expand
 
 ![npm](https://img.shields.io/npm/v/dotenv-with-expand)
